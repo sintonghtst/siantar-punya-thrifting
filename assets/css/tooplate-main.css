@@ -408,6 +408,7 @@ a {
 	font-size: 17px;
 	font-weight: 700;
 	margin-top: 0px;
+	color: #eee;
 }
 .single-product .right-content h6 {
 	color: #e97b22;
@@ -428,7 +429,7 @@ a {
 }
 .single-product .right-content label {
 	font-size: 14px;
-	color: #4a4a4a;
+	color: #eee;
 }
 .single-product .right-content .quantity-text {
 	margin-left: 10px;
@@ -505,6 +506,7 @@ a {
 	font-size: 14px;
 	color: #4a4a4a;
 	font-weight: 400;
+	color: #eee;
 }
 
 
